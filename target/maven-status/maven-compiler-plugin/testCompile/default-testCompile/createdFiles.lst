@@ -1,0 +1,10 @@
+starter\navigation\DuckDuckGoHomePage.class
+starter\navigation\NavigateTo.class
+starter\stepdefinitions\AddItemStepDefinitions.class
+starter\helpers\TodoListPage.class
+starter\stepdefinitions\ParameterDefinitions.class
+starter\CucumberTestSuite.class
+starter\search\SearchForm.class
+starter\search\LookForInformation.class
+starter\helpers\AddAnItem.class
+starter\helpers\NavigateTo.class
